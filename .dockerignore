@@ -1,0 +1,8 @@
+# Fica fora da imagem: build local, credenciais e arquivos de IDE/Git
+target/
+.env
+*.env
+.idea/
+*.iml
+.vscode/
+.git/
