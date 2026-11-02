@@ -38,8 +38,8 @@ A **Loyalty Platform** é uma plataforma B2B de gamificação: empresas clientes
 |---|---|
 | Repositório da API (este) | [Challenge-LoyaltyPlatform/Java-LoyaltyPlatform4](https://github.com/Challenge-LoyaltyPlatform/Java-LoyaltyPlatform4) |
 | Repositório do front-end | [Challenge-LoyaltyPlatform/LoyaltyPlatform-Front-React](https://github.com/Challenge-LoyaltyPlatform/LoyaltyPlatform-Front-React) |
-| Front-end publicado (Vercel) | _a preencher após o deploy do front_ |
-| API publicada (Render) | _a preencher após o deploy da API_ |
+| Front-end publicado (Vercel) | [loyalty-platform-front-react.vercel.app](https://loyalty-platform-front-react.vercel.app) |
+| API publicada (Render) | [loyalty-platform-api-snkp.onrender.com](https://loyalty-platform-api-snkp.onrender.com) |
 
 ---
 
